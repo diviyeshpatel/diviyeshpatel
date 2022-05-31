@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My GitHub story in 3D. View a 3D model of my GitHub contribution graph...
+View my GitHub story in 3D, a 3D model of my GitHub contribution graph...
 
 [![Watch the video](https://github.com/diviyeshpatel/diviyeshpatel/blob/main/Skyline.jpg)](https://skyline.github.com/diviyeshpatel/2022)
 
