@@ -1,13 +1,8 @@
 ### Hi there 👋
 
-My GitHub story in 3D...
+Click my logo to see my GitHub story in 3D...
 
 [![Watch the video](https://github.com/diviyeshpatel/diviyeshpatel/blob/main/D1V2.png)](https://skyline.github.com/diviyeshpatel/2022)
-
-https://github.com/diviyeshpatel/diviyeshpatel/blob/main/diviyeshpatel-2021.stl
-https://github.com/diviyeshpatel/diviyeshpatel/blob/main/diviyeshpatel-2020.stl
-https://github.com/diviyeshpatel/diviyeshpatel/blob/main/diviyeshpatel-2019.stl
-https://github.com/diviyeshpatel/diviyeshpatel/blob/main/diviyeshpatel-2018.stl
 
 Spot the \<div> tag above! 😅
 
