@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-Click my logo to see my GitHub story in 3D...
+My GitHub story in 3D. View a 3D model of my GitHub contribution graph...
 
-[![Watch the video](https://github.com/diviyeshpatel/diviyeshpatel/blob/main/D1V2.png)](https://skyline.github.com/diviyeshpatel/2022)
+[![Watch the video](https://github.com/diviyeshpatel/diviyeshpatel/blob/main/Skyline.jpg)](https://skyline.github.com/diviyeshpatel/2022)
 
-Spot the \<div> tag above! 😅
-
+Challenge: Spot the \<div> tag to the left! 😅
 <!--
 **diviyeshpatel/diviyeshpatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
