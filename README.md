@@ -2,7 +2,7 @@
 
 View my GitHub story in 3D, a 3D model of my GitHub contribution graph...
 
-[![Watch the video](https://github.com/diviyeshpatel/diviyeshpatel/blob/main/Skyline.jpg)]
+![Watch the video](https://github.com/diviyeshpatel/diviyeshpatel/blob/main/Skyline.jpg)
 
 <a href="https://app.daily.dev/diviyeshpatel"><img src="https://api.daily.dev/devcards/c4a1f464dad54c05b7b294ae336f609c.png?r=xxn" width="100%" alt="Diviyesh Patel's Dev Card"/></a>
 <!--
