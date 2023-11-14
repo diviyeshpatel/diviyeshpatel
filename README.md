@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div class="row">
+<div class="d-flex">
     <div class="col-12 col-lg-6">
         <img src="https://github.com/diviyeshpatel/diviyeshpatel/blob/main/DiviyeshPatel.png" width="100%" alt="Diviyesh Patel's Microsoft Avatar"/>
     </div>
