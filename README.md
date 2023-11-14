@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://github.com/diviyeshpatel/diviyeshpatel/blob/main/DiviyeshPatel.png" width="100%" alt="Diviyesh Patel's Microsoft Avatar"/>
+<img src="https://github.com/diviyeshpatel/diviyeshpatel/blob/main/DiviyeshPatel.png" width="50%" alt="Diviyesh Patel's Microsoft Avatar"/>
 
 View my GitHub story in 3D, a 3D model of my GitHub contribution graph...
 
