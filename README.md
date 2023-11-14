@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+View my GitHub story in 3D, a 3D model of my GitHub contribution graph...
+
+<img src="https://github.com/diviyeshpatel/diviyeshpatel/blob/main/Skyline.jpg" width="100%" alt="Diviyesh Patel's GitHub Contribution Graph"/>
+
 <table>
     <tr>
         <td width="55%">
@@ -10,10 +14,6 @@
         </td>
     </tr>
 </table>
-
-View my GitHub story in 3D, a 3D model of my GitHub contribution graph...
-
-<img src="https://github.com/diviyeshpatel/diviyeshpatel/blob/main/Skyline.jpg" width="100%" alt="Diviyesh Patel's GitHub Contribution Graph"/>
 
 <!--
 **diviyeshpatel/diviyeshpatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
