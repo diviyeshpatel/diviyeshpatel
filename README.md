@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<table>
+<table border="0">
     <tr>
         <td>
             <img src="https://github.com/diviyeshpatel/diviyeshpatel/blob/main/DiviyeshPatel.png" width="50%" alt="Diviyesh Patel's Microsoft Avatar"/>
