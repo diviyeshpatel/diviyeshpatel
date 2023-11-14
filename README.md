@@ -3,7 +3,6 @@
 <table>
     <tr>
         <td width="50%">
-            <p>Welcome</p>
             <img src="https://github.com/diviyeshpatel/diviyeshpatel/blob/main/DiviyeshPatel.png" width="100%" alt="Diviyesh Patel's Microsoft Avatar"/>
         </td>
         <td width="50%">
