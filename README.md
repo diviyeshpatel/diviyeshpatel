@@ -1,12 +1,18 @@
 ### Hi there 👋
 
-<img src="https://github.com/diviyeshpatel/diviyeshpatel/blob/main/DiviyeshPatel.png" width="50%" alt="Diviyesh Patel's Microsoft Avatar"/>
+<div class="row">
+    <div class="col">
+        <img src="https://github.com/diviyeshpatel/diviyeshpatel/blob/main/DiviyeshPatel.png" width="100%" alt="Diviyesh Patel's Microsoft Avatar"/>
+    </div>
+    <div class="col">
+        <a href="https://app.daily.dev/diviyeshpatel"><img src="https://api.daily.dev/devcards/c4a1f464dad54c05b7b294ae336f609c.png?r=xxn" width="100%" alt="Diviyesh Patel's Dev Card"/></a>
+    </div>
+</div>
 
 View my GitHub story in 3D, a 3D model of my GitHub contribution graph...
 
 <img src="https://github.com/diviyeshpatel/diviyeshpatel/blob/main/Skyline.jpg" width="100%" alt="Diviyesh Patel's GitHub Contribution Graph"/>
 
-<a href="https://app.daily.dev/diviyeshpatel"><img src="https://api.daily.dev/devcards/c4a1f464dad54c05b7b294ae336f609c.png?r=xxn" width="100%" alt="Diviyesh Patel's Dev Card"/></a>
 <!--
 **diviyeshpatel/diviyeshpatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
