@@ -3,7 +3,7 @@
 View my GitHub story in 3D, a 3D model of my GitHub contribution graph...
 
 <img src="https://github.com/diviyeshpatel/diviyeshpatel/blob/main/Skyline.png" width="100%" alt="Diviyesh Patel's GitHub Contribution Graph"/>
-
+<img src="https://github.com/diviyeshpatel/diviyeshpatel/blob/main/diviyeshpatel-2024-github-skyline.stl" width="100%" alt="Diviyesh Patel's GitHub Contribution Graph"/>
 <table>
     <tr>
         <td width="55%">
