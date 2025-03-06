@@ -1,7 +1,6 @@
 ---
 layout: page
 title: README
-permalink: /read-me/
 ---
 
 ### Hi there 👋
