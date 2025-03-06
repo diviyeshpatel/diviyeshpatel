@@ -14,7 +14,7 @@ DJ Thomas – <a title="DJ Thomas" href="https://www.djthomascoaches.com">djthom
 
 Simonds – <a title="Simonds" href="https://www.simonds.co.uk">simonds.co.uk</a>
 
-Daishs – <a title="Daishs" href="https://www.daishs.com/">www.daishs.com</a>
+Daishs – <a title="Daishs" href="https://www.daishs.com/">daishs.com</a>
 
 UK Breakaways – <a title="UK Breakaways" href="https://www.ukbreakaways.com">ukbreakaways.com</a>
 
