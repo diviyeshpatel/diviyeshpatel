@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 View my GitHub story in 3D, a 3D model of my GitHub contribution graph...
-<a href="https://github.com/diviyeshpatel/diviyeshpatel/blob/main/diviyeshpatel-2024-github-skyline.stl" title="Diviyesh Patel's GitHub Contribution Graph">Diviyesh Patel's 2024 GitHub Contribution Graph</a>
+<a href="https://github.com/diviyeshpatel/diviyeshpatel/blob/main/diviyeshpatel-2024-github-skyline.stl?raw=true" title="Diviyesh Patel's GitHub Contribution Graph">Diviyesh Patel's 2024 GitHub Contribution Graph</a>
 
 <img src="https://github.com/diviyeshpatel/diviyeshpatel/blob/main/Skyline.png?raw=true" width="100%" alt="Diviyesh Patel's GitHub Contribution Graph"/>
 
