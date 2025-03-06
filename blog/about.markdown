@@ -34,7 +34,7 @@ In 2017, after enough self learning, he joined a software company as a Front End
 
 Moving forward 2018, he joined a legal firm to help improve current internal systems by usability and accessibility to design aesthetics and shaping current technology to newer technologies using agile methodology.
 
-The work he has produced made up to this date is listed on this <a title="List of websites" href="/list-of-websites">page</a>, from recent and order of current employment to historic and in between freelance projects.
+The work he has produced made up to this date is listed on this <a title="List of websites" href="/diviyeshpatel/list-of-websites">page</a>, from recent and order of current employment to historic and in between freelance projects.
 
 To contact or find out more, please visit the following:
 
