@@ -1,8 +1,3 @@
----
-layout: page
-title: README
----
-
 ### Hi there 👋
 
 View my GitHub story in 3D, a 3D model of my GitHub contribution graph...
