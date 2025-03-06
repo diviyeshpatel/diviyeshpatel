@@ -50,7 +50,7 @@ Varlink – <a title="Varlink" href="https://www.varlink.co.uk">varlink.co.uk</a
 
 WSG Interiors – <a title="WSG Interiors" href="https://www.wsginteriors.co.uk">wsginteriors.co.uk</a>
 
-Baldwin &amp; Francis – <a title="Baldwin & Francis" href="https://www.baldwinandfrancis.com">baldwinandfrancis.com</a>
+Baldwin & Francis – <a title="Baldwin & Francis" href="https://www.baldwinandfrancis.com">baldwinandfrancis.com</a>
 
 DSP-Explorer – <a title="DSP" href="https://www.dsp.co.uk/">dsp.co.uk</a>
 
@@ -66,7 +66,7 @@ Telescope Group – <a title="Telescope Group" href="https://telescopegroup.co.u
 
 Origin Fertilisers – <a title="Origin Fertilisers" href="https://www.originfertilisers.co.uk">originfertilisers.co.uk</a>
 
-OSI Office &amp; School Furniture – <a title="OSI Office & School Furniture" href="https://www.osiofficefurniture.co.uk">osiofficefurniture.co.uk</a>
+OSI Office & School Furniture – <a title="OSI Office & School Furniture" href="https://www.osiofficefurniture.co.uk">osiofficefurniture.co.uk</a>
 
 Impact Socket Supplies – <a title="Impact Socket Supplies" href="https://www.impactsocket.co.uk">impactsocket.co.uk</a>
 
