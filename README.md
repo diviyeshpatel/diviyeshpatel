@@ -7,10 +7,10 @@ View my GitHub story in 3D, a 3D model of my GitHub contribution graph...
 
 <table>
     <tr>
-        <td width="50%">
+        <td width="55%">
             <img src="https://github.com/diviyeshpatel/diviyeshpatel/blob/main/Skyline_2018-2025.png?raw=true" width="100%" alt="Diviyesh Patel's GitHub Contribution Graph By Year"/>
         </td>
-        <td width="50%">
+        <td width="45%">
             <a href="https://app.daily.dev/diviyeshpatel"><img src="https://api.daily.dev/devcards/v2/bLJ5cluH7GAtgpjrVjOof.png?type=default&r=vz3" width="375" alt="Diviyesh Patel's Dev Card"/></a>            
             <img src="https://github.com/diviyeshpatel/diviyeshpatel/blob/main/DiviyeshPatel.png?raw=true" width="100%" alt="Diviyesh Patel's Microsoft Avatar"/>
         </td>
