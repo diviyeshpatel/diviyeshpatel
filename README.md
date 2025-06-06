@@ -5,7 +5,7 @@ View my GitHub story in 3D, a 3D model of my GitHub contribution graph...
 
 <table>
     <tr>
-        <td width="55%">
+        <td width="55%" align="center">
             <img src="https://github.com/diviyeshpatel/diviyeshpatel/blob/main/Skyline_2018-2025.png?raw=true" width="100%" alt="Diviyesh Patel's GitHub Contribution Graph By Year"/>
         </td>
         <td width="45%" align="center">
