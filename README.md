@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <table>
-    <tr> 
+    <tr>
         <td width="55%" align="center">
             <img src="https://github.com/diviyeshpatel/diviyeshpatel/blob/main/Skyline_2021-2026.png?raw=true" width="100%" alt="Diviyesh Patel's GitHub Contribution Graph By Year"/>
         </td>
