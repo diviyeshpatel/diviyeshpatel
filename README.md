@@ -8,7 +8,7 @@
         <td width="45%" align="center">
             <p>View my GitHub story in 3D, a 3D model of my GitHub contribution graph...</p>
             <p>
-                <a href="https://github.com/diviyeshpatel/diviyeshpatel/blob/main/diviyeshpatel-2026-github-skyline.stl" title="Diviyesh Patel's 2025 GitHub Contribution Graph">Diviyesh Patel's 2025 GitHub Contribution Graph</a>
+                <a href="https://github.com/diviyeshpatel/diviyeshpatel/blob/main/diviyeshpatel-2026-github-skyline.stl" title="Diviyesh Patel's 2026 GitHub Contribution Graph">Diviyesh Patel's 2026 GitHub Contribution Graph</a>
             </p>
             <a href="https://github.com/diviyeshpatel/diviyeshpatel/blob/main/diviyeshpatel-2012-26-github-skyline.stl" title="Diviyesh Patel's Entire GitHub Contribution Graph">
                 <img src="https://github.com/diviyeshpatel/diviyeshpatel/blob/main/Skyline.png?raw=true" width="100%" alt="Diviyesh Patel's Entire GitHub Contribution Graph"/>
